@@ -1,0 +1,26 @@
+{
+  "name": "time-by-now",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arnab236/time-by-now.git"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "time",
+    "ago",
+    "formatter",
+    "date",
+    "time-by-now"
+  ],
+  "bugs": {
+    "url": "https://github.com/arnab236/time-by-now/issues"
+  },
+  "homepage": "https://github.com/arnab236/time-by-now#readme",
+  "author": "Arnab Sarkar",
+  "license": "MIT",
+  "description": "Convert dates into human-readable 'time ago' or 'time until' strings"
+}
